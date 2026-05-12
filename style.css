@@ -36,6 +36,10 @@ body {
     color: var(--verde);
 }
 
+.ativo{
+    background-color: var (--botao-ativo);
+    border-botton: 4Px Solid var (--verde);
+
 .botao{
     font-family: "Chakra Petch", sans-serif;
     background-color: var(--botao-inativo);
